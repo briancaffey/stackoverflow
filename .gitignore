@@ -3,3 +3,5 @@ ghostdriver.log
 *.txt
 *.csv
 Untitled.ipynb
+*.xml
+*.log
